@@ -32,7 +32,6 @@ keylogger_project/
 │
 ├── keylogger.py              # Main keylogger script
 ├── requirements.txt          # Python dependencies
-├── .gitignore                # Files excluded from GitHub
 ├── README.md                 # This file
 │
 └── keylogger_info_files/     # Auto-created output folder (not uploaded)
